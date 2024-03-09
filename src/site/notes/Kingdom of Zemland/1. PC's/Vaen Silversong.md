@@ -11,3 +11,8 @@
 ```custom-frames
 frame: DNDVaen
 ```
+
+Race : [[Kingdom of Zemland/compendium/races/half-elf\|half-elf]] 
+Class : [[Kingdom of Zemland/compendium/classes/warlock-the-hexblade-xge\|warlock-the-hexblade-xge]]
+Subclass : Hexblade
+Level : 3
