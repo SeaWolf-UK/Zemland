@@ -8,6 +8,7 @@
 
 [Nigel Del La Plumph's Character Sheet - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/characters/117567676)
 
-```custom-frames
-frame:DNDNigel
-```
+Race : [[Kingdom of Zemland/compendium/races/human\|human]] 
+Class : [[Kingdom of Zemland/compendium/classes/monk\|monk]] 
+Subclass : [[Kingdom of Zemland/compendium/classes/monk-way-of-the-ascendant-dragon-ftd\|monk-way-of-the-ascendant-dragon-ftd]] 
+Level : 3
