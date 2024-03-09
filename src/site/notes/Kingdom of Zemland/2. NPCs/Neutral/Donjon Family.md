@@ -3,6 +3,6 @@
 ---
 
 
-A Gold [[dragonborn\|dragonborn]] family.
+A Gold [[Kingdom of Zemland/compendium/races/dragonborn\|dragonborn]] family.
 
 [[Kingdom of Zemland/2. NPCs/Allies/Jasmine\|Jasmine]]'s family  
