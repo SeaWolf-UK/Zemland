@@ -7,6 +7,6 @@
 [Workax Draymen (Kax)'s Character Sheet - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/characters/118421183)
 
 Race : [[Kingdom of Zemland/compendium/races/half-elf\|half-elf]] 
-Class : [[Kingdom of Zemland/compendium/classes/sorcerer-draconic-bloodline\|sorcerer-draconic-bloodline]] 
-Subclass : [[Kingdom of Zemland/compendium/bestiary/legendary-group/green-dragon\|green-dragon]] 
+Class : [[Kingdom of Zemland/compendium/classes/sorcerer\|sorcerer]] 
+Subclass : [[Kingdom of Zemland/compendium/classes/sorcerer-draconic-bloodline\|sorcerer-draconic-bloodline]] 
 Level : 3
