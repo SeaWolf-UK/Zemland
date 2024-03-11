@@ -43,7 +43,9 @@
 
 
 ##### Cities
-- [[Kingdom of Zemland/3. Locations/City/Dragontail/Dragontail\|Dragontail]] 
+- [[Kingdom of Zemland/3. Locations/City/Dragontail\|Dragontail]]
+
+{ .block-language-dataview}
 
 
 ##### Continents 
@@ -56,38 +58,53 @@
 
 
 ##### Places of Interest
-- [[Kingdom of Zemland/3. Locations/Places of Interest/Black Forrest\|Black Forrest]] 
-- [[Kingdom of Zemland/3. Locations/Places of Interest/Shingen Manor\|Shingen Manor]] 
+- [[Kingdom of Zemland/3. Locations/Places of Interest/Black Forrest\|Black Forrest]]
+- [[Kingdom of Zemland/3. Locations/Places of Interest/Shingen Manor\|Shingen Manor]]
+- [[Kingdom of Zemland/3. Locations/Places of Interest/Whistlewood\|Whistlewood]]
+
+{ .block-language-dataview}
 
 
 ##### Towns
+- [[Kingdom of Zemland/3. Locations/Town/Avita\|Avita]]
 - [[Kingdom of Zemland/3. Locations/Town/Dim Harbour\|Dim Harbour]]
-- [[Kingdom of Zemland/3. Locations/Town/Avita\|Avita]] 
-- [[Kingdom of Zemland/3. Locations/Town/Rose Falls\|Rose Falls]] 
+- [[Kingdom of Zemland/3. Locations/Town/Rose Falls\|Rose Falls]]
+- [[Kingdom of Zemland/3. Locations/Town/Stillrest\|Stillrest]]
+
+{ .block-language-dataview}
 
 
 ##### Villages
-- Shadow Crest
+- [[Kingdom of Zemland/3. Locations/Village/Shadow Crest\|Shadow Crest]]
+
+{ .block-language-dataview}
 
 
 ### **NPC's**
 
 #### Allies
-- [[Kingdom of Zemland/2. NPCs/Allies/Jasmine\|Jasmine]] 
-- [[Kingdom of Zemland/2. NPCs/Allies/Lord Barbas\|Lord Barbas]] 
-- [[Kingdom of Zemland/2. NPCs/Allies/Reki\|Reki]] [[Kingdom of Zemland/2. NPCs/Allies/Shadow\|Shadow]] 
+- [[Kingdom of Zemland/2. NPCs/Allies/Jasmine\|Jasmine]]
+- [[Kingdom of Zemland/2. NPCs/Allies/Lord Barbas\|Lord Barbas]]
+- [[Kingdom of Zemland/2. NPCs/Allies/Reki\|Reki]]
+- [[Kingdom of Zemland/2. NPCs/Allies/Shadow\|Shadow]]
 - [[Kingdom of Zemland/2. NPCs/Allies/Zacora\|Zacora]]
 
+{ .block-language-dataview}
+
 #### Enemies 
-- [[Kingdom of Zemland/2. NPCs/Enemies/Ella\|Ella]] 
-- [[Kingdom of Zemland/2. NPCs/Enemies/Nightingale\|Nightingale]] 
-- [[Kingdom of Zemland/2. NPCs/Enemies/Pariah\|Pariah]] 
-- [[Kingdom of Zemland/2. NPCs/Enemies/Starlight\|Starlight]] 
+- [[Kingdom of Zemland/2. NPCs/Enemies/Ella\|Ella]]
+- [[Kingdom of Zemland/2. NPCs/Enemies/Nightingale\|Nightingale]]
+- [[Kingdom of Zemland/2. NPCs/Enemies/Pariah\|Pariah]]
+- [[Kingdom of Zemland/2. NPCs/Enemies/Starlight\|Starlight]]
+
+{ .block-language-dataview}
 
 #### Neutral
-- [[Kingdom of Zemland/2. NPCs/Neutral/Diana\|Diana]] 
-- [[Kingdom of Zemland/2. NPCs/Neutral/Donjon Family\|Donjon Family]] 
-- [[Kingdom of Zemland/2. NPCs/Neutral/Flower\|Flower]] 
-- [[Kingdom of Zemland/2. NPCs/Neutral/Rasbroth\|Rasbroth]] 
-- [[Kingdom of Zemland/2. NPCs/Neutral/Rus\|Rus]] 
+- [[Kingdom of Zemland/2. NPCs/Neutral/Diana\|Diana]]
+- [[Kingdom of Zemland/2. NPCs/Neutral/Donjon Family\|Donjon Family]]
+- [[Kingdom of Zemland/2. NPCs/Neutral/Flower\|Flower]]
+- [[Kingdom of Zemland/2. NPCs/Neutral/Rasbroth\|Rasbroth]]
+- [[Kingdom of Zemland/2. NPCs/Neutral/Rus\|Rus]]
+
+{ .block-language-dataview}
 
