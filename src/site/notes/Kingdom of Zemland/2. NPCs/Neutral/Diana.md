@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kingdom-of-zemland/2-np-cs/neutral/diana/"}
+{"dg-publish":true,"permalink":"/kingdom-of-zemland/2-np-cs/neutral/diana/","tags":["Neutral"]}
 ---
 
 Lives in Golden Quarter.
