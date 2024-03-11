@@ -10,4 +10,4 @@
 Race : [[Kingdom of Zemland/compendium/races/dragonborn\|Dragonborn]] (white)
 Class : [[Kingdom of Zemland/compendium/classes/paladin\|paladin]] 
 Subclass : [[Kingdom of Zemland/compendium/classes/paladin-oath-of-devotion\|paladin-oath-of-devotion]]
-Level : 3
+Level : 4
