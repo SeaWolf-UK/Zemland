@@ -5,6 +5,10 @@
 
 ![dragon-banner.webp](/img/user/Kingdom%20of%20Zemland/z_Attachments/dragon-banner.webp)
 
+## DM
+
+- Jess (she who must be obeyed)
+
 ## Player Characters 
 
 - [[Kingdom of Zemland/1. PC's/Eirwen Sarkan\|Eirwen Sarkan]] 
