@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/kingdom-of-zemland/3-locations/places-of-interest/black-forrest/"}
+{"dg-publish":true,"permalink":"/kingdom-of-zemland/3-locations/places-of-interest/black-forrest/","tags":["POI"]}
 ---
 
-About 1 days Travel from [[Kingdom of Zemland/3. Locations/City/Dragontail/Dragontail\|Dragontail]] 
+About 1 days Travel from [[Kingdom of Zemland/3. Locations/City/Dragontail\|Dragontail]] 
 
 Home to Fey.
 
