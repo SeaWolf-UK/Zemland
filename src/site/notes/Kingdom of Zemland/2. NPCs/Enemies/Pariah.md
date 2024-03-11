@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kingdom-of-zemland/2-np-cs/enemies/pariah/"}
+{"dg-publish":true,"permalink":"/kingdom-of-zemland/2-np-cs/enemies/pariah/","tags":["Enemies"]}
 ---
 
 
