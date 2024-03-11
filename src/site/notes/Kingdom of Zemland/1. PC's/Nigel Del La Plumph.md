@@ -11,4 +11,4 @@
 Race : [[Kingdom of Zemland/compendium/races/human\|human]] 
 Class : [[Kingdom of Zemland/compendium/classes/monk\|monk]] 
 Subclass : [[Kingdom of Zemland/compendium/classes/monk-way-of-the-ascendant-dragon-ftd\|monk-way-of-the-ascendant-dragon-ftd]] 
-Level : 3
+Level : 4
