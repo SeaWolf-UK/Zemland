@@ -21,7 +21,7 @@ To maintain peace and prosperity, the dragonborn rulers forged a sacred pact wit
 
 It has been this way for a few centuries. Although there are rumours about something brewing on the horizon.
 
-The capital of the country is called [[Kingdom of Zemland/3. Locations/City/Dragontail/Dragontail\|Dragontail]] , the oldest and largest city in the country.
+The capital of the country is called [[Kingdom of Zemland/3. Locations/City/Dragontail\|Dragontail]] , the oldest and largest city in the country.
 
 The land is administered by the [[Kingdom of Zemland/5. Lore/Organisations/Council of Scales\|Council of Scales]] 
 
