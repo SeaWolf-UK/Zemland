@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kingdom-of-zemland/2-np-cs/neutral/rus/"}
+{"dg-publish":true,"permalink":"/kingdom-of-zemland/2-np-cs/neutral/rus/","tags":["Neutral"]}
 ---
 
 Lives in the Golden Quarter.
