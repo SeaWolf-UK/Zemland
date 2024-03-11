@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kingdom-of-zemland/3-locations/town/rose-falls/"}
+{"dg-publish":true,"permalink":"/kingdom-of-zemland/3-locations/town/rose-falls/","tags":["Town"]}
 ---
 
 - Small town
