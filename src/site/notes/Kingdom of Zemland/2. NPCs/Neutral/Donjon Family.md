@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kingdom-of-zemland/2-np-cs/neutral/donjon-family/"}
+{"dg-publish":true,"permalink":"/kingdom-of-zemland/2-np-cs/neutral/donjon-family/","tags":["Neutral"]}
 ---
 
 
