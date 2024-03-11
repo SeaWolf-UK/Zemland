@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/kingdom-of-zemland/2-np-cs/allies/lord-barbas/"}
+{"dg-publish":true,"permalink":"/kingdom-of-zemland/2-np-cs/allies/lord-barbas/","tags":["Allies"]}
 ---
 
 
 
-Lives at Shingen manor.  About half a days travel from [[Kingdom of Zemland/3. Locations/City/Dragontail/Dragontail\|Dragontail]].  Inbetween city and Black Forrest.
+Lives at Shingen manor.  About half a days travel from [[Kingdom of Zemland/3. Locations/City/Dragontail\|Dragontail]].  Inbetween city and Black Forrest.
 
 Elderly [[Kingdom of Zemland/compendium/races/elf\|elf]] 
 
