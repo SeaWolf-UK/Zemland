@@ -7,6 +7,7 @@
 
 [Eirwen Sarkan's Character Sheet - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/characters/117854308)
 
+Player : Hannah
 Race : [[Kingdom of Zemland/compendium/races/dragonborn-chromatic-ftd\|Dragonborn (Chromatic)]] (White)
 Class : [[Kingdom of Zemland/compendium/classes/paladin\|paladin]] 
 Subclass : [[Kingdom of Zemland/compendium/classes/paladin-oath-of-devotion\|paladin-oath-of-devotion]]
