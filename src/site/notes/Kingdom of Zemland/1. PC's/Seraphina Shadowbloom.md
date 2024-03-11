@@ -11,4 +11,4 @@
 Race : [[Kingdom of Zemland/compendium/races/changeling-mpmm\|changeling-mpmm]] 
 Class : [[Kingdom of Zemland/compendium/classes/rogue\|rogue]] 
 Subclass : [[Kingdom of Zemland/compendium/classes/rogue-soulknife-tce\|rogue-soulknife-tce]] 
-Level : 3
+Level : 4
