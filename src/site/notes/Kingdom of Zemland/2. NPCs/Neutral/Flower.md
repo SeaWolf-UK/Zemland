@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kingdom-of-zemland/2-np-cs/neutral/flower/"}
+{"dg-publish":true,"permalink":"/kingdom-of-zemland/2-np-cs/neutral/flower/","tags":["Neutral"]}
 ---
 
 one of the [[Kingdom of Zemland/5. Lore/Organisations/Cult of Tiamat\|Cult of Tiamat]] followers.
