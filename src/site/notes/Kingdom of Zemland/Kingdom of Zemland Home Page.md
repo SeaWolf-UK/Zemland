@@ -7,7 +7,7 @@
 
 ## DM
 
-- Jess (she who must be obeyed)
+- Jess (Keeper of all things Zemland and beyond)
 
 ## Player Characters 
 
@@ -42,8 +42,6 @@
 ### Map
 
 [[Kingdom of Zemland/3. Locations/Zemland Map\|Zemland Map]] 
-
-
 
 
 ##### Cities
