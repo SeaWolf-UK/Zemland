@@ -16,7 +16,7 @@
 - [[Kingdom of Zemland/1. PC's/Seraphina Shadowbloom\|Seraphina Shadowbloom]] 
 - [[Kingdom of Zemland/1. PC's/Vaen Silversong\|Vaen Silversong]] 
 - [[Kingdom of Zemland/1. PC's/Workax Dreyman\|Workax Dreyman]] 
-- [[Kingdom of Zemland/1. PC's/Cory (AKA Checkers)\|Cory (AKA Checkers)]] 
+- [[Kingdom of Zemland/1. PC's/Kori (AKA Checkers)\|Kori (AKA Checkers)]] 
 
 
 ## Sessions 
