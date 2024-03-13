@@ -42,7 +42,7 @@ Blue and purple Dragonborn's medium status
 White and green Dragonborn's  low status
 
 
-#### **The [[Kingdom of Zemland/5. Lore/Organisations/Council of Scales\|Council of Scales]] ** : 
+#### **The [[Kingdom of Zemland/5. Lore/Organisations/Council of Scales\|Council of Scales]]** : 
 
 At the heart of Zemland lies the capital city, where the Council of Scales convenes to advise the monarch and enact laws. Comprised of wise elders and powerful mages, the council wields great authority.
 
@@ -61,24 +61,24 @@ A language imbued with arcane power, the Dragon Tongue is spoken by scholars and
 
 Beneath the veneer of unity, tensions simmer among the noble houses, each vying for control of the kingdom's resources and secrets. Intrigue and betrayal lurk in the shadows, threatening to plunge Zemland into chaos.
 
-#### **The [[Kingdom of Zemland/5. Lore/Organisations/Cult of Tiamat\|Cult of Tiamat]] ** :
+#### **The [[Kingdom of Zemland/5. Lore/Organisations/Cult of Tiamat\|Cult of Tiamat]]** :
 
 A clandestine cult dedicated to the dark goddess of dragons, [[Kingdom of Zemland/compendium/bestiary/npc/tiamat-rot\|Tiamat]]  , seeks to undermine the Dragonborn rule and resurrect ancient evils. Their shadowy influence spreads like a poison, corrupting hearts and minds.
 
-#### **The Prophecy of [[Kingdom of Zemland/5. Lore/Notable Historic Characters/Drakor\|Drakor]] ** : 
+#### **The Prophecy of [[Kingdom of Zemland/5. Lore/Notable Historic Characters/Drakor\|Drakor]]** : 
 
 Whispers speak of a prophecy foretelling the return of [[Kingdom of Zemland/5. Lore/Notable Historic Characters/Drakor\|Drakor]] , the legendary dragon king who will herald a new age of conquest or salvation. Some herald this prophecy as a beacon of hope, while others fear it as a harbinger of doom.
 
 ### **Heroes and Legends:**
 
-#### **The [[Kingdom of Zemland/5. Lore/Organisations/Dragon Knights\|Dragon Knights]] ** : 
+#### **The [[Kingdom of Zemland/5. Lore/Organisations/Dragon Knights\|Dragon Knights]]** : 
 
 Elite warriors sworn to defend the realm, the Dragon Knights embody courage and honour in the face of adversity. Clad in enchanted armour and wielding weapons of dragon steel, they stand as bulwarks against the kingdom's foes.
 
-#### **The [[Kingdom of Zemland/5. Lore/Organisations/Sorcerers Guild\|Sorcerers Guild]] ** :  
+#### **The [[Kingdom of Zemland/5. Lore/Organisations/Sorcerers Guild\|Sorcerers Guild]]** :  
 
 Masters of arcane lore and forbidden magics, the Sorcerer's Guild is a bastion of knowledge and experimentation. Its members unravel the mysteries of the cosmos and harness the primal forces that shape reality.
 
-#### **The [[Kingdom of Zemland/5. Lore/Notable Historic Characters/Last Dragon Slayer\|Last Dragon Slayer]] ** : 
+#### **The [[Kingdom of Zemland/5. Lore/Notable Historic Characters/Last Dragon Slayer\|Last Dragon Slayer]]** : 
 
 A lone hero, bearing a legacy of blood and fire, seeks redemption amidst the ruins of a forgotten age. Haunted by visions of a world consumed by darkness, they embark on a quest to defy destiny and forge a new future for Zemland.
