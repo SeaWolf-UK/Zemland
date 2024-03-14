@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20240312155058.png](/img/user/Kingdom%20of%20Zemland/z_Attachments/Pasted%20image%2020240312155058.png)
+![Seraphina 2.png](/img/user/Kingdom%20of%20Zemland/z_Attachments/Seraphina%202.png)
 
 [Character App (dndbeyond.com)](https://www.dndbeyond.com/characters/117566050)
 
