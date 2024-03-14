@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/kingdom-of-zemland/1-pc-s/eirwen-sarkan/"}
 ---
 
-![Pasted image 20240309181723.png|500](/img/user/Kingdom%20of%20Zemland/z_Attachments/Pasted%20image%2020240309181723.png)
+![Eirwen.png|500](/img/user/Kingdom%20of%20Zemland/z_Attachments/Eirwen.png)
 
 
 [Eirwen Sarkan's Character Sheet - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/characters/117854308)
