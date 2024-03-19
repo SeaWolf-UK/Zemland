@@ -97,6 +97,7 @@
 
 #### Enemies 
 - [[Kingdom of Zemland/2. NPCs/Enemies/Ella\|Ella]]
+- [[Kingdom of Zemland/2. NPCs/Enemies/Macy\|Macy]]
 - [[Kingdom of Zemland/2. NPCs/Enemies/Nightingale\|Nightingale]]
 - [[Kingdom of Zemland/2. NPCs/Enemies/Pariah\|Pariah]]
 - [[Kingdom of Zemland/2. NPCs/Enemies/Starlight\|Starlight]]
