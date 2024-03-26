@@ -65,6 +65,7 @@
 - [[Kingdom of Zemland/3. Locations/Places of Interest/Belly of the Beast\|Belly of the Beast]]
 - [[Kingdom of Zemland/3. Locations/Places of Interest/Black Forrest\|Black Forrest]]
 - [[Kingdom of Zemland/3. Locations/Places of Interest/Shingen Manor\|Shingen Manor]]
+- [[Kingdom of Zemland/3. Locations/Places of Interest/Whispering Waves\|Whispering Waves]]
 - [[Kingdom of Zemland/3. Locations/Places of Interest/Whistlewood\|Whistlewood]]
 
 { .block-language-dataview}
