@@ -12,7 +12,7 @@
 ## Player Characters 
 
 - [[Kingdom of Zemland/1. PC's/Eirwen Sarkan\|Eirwen Sarkan]] 
-- [[Kingdom of Zemland/1. PC's/Nigel Del La Plumph\|Nigel Del La Plumph]]
+- [[Kingdom of Zemland/1. PC's/Nigel Del La Plumph\|Nigel Del La Plumph]] (Retired)
 - [[Kingdom of Zemland/1. PC's/Seraphina Shadowbloom\|Seraphina Shadowbloom]] 
 - [[Kingdom of Zemland/1. PC's/Vaen Silversong\|Vaen Silversong]] 
 - [[Kingdom of Zemland/1. PC's/Workax Dreyman\|Workax Dreyman]] 
@@ -31,6 +31,7 @@
 - [[Kingdom of Zemland/4. Session/2024-03-24\|2024-03-24]]
 - [[Kingdom of Zemland/4. Session/2024-04-07\|2024-04-07]]
 - [[Kingdom of Zemland/4. Session/2024-04-14\|2024-04-14]]
+- [[Kingdom of Zemland/4. Session/2024-04-21\|2024-04-21]]
 
 { .block-language-dataview}
 
