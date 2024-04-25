@@ -12,11 +12,14 @@
 ## Player Characters 
 
 - [[Kingdom of Zemland/1. PC's/Eirwen Sarkan\|Eirwen Sarkan]] 
-- [[Kingdom of Zemland/1. PC's/Nigel Del La Plumph\|Nigel Del La Plumph]] (Retired)
 - [[Kingdom of Zemland/1. PC's/Seraphina Shadowbloom\|Seraphina Shadowbloom]] 
 - [[Kingdom of Zemland/1. PC's/Vaen Silversong\|Vaen Silversong]] 
 - [[Kingdom of Zemland/1. PC's/Workax Dreyman\|Workax Dreyman]] 
 - [[Kingdom of Zemland/1. PC's/Kori (AKA Checkers)\|Kori (AKA Checkers)]] 
+
+## Retired or Deceased PC's
+
+- [[Kingdom of Zemland/1. PC's/Nigel Del La Plumph\|Nigel Del La Plumph]] (Retired)
 
 
 ## Sessions 
