@@ -11,4 +11,4 @@ Player : Hannah
 Race : [[Kingdom of Zemland/compendium/races/dragonborn-chromatic-ftd\|Dragonborn (Chromatic)]] (White)
 Class : [[Kingdom of Zemland/compendium/classes/paladin\|paladin]] 
 Subclass : [[Kingdom of Zemland/compendium/classes/paladin-oath-of-devotion\|paladin-oath-of-devotion]]
-Level : 4
+Level : 5
