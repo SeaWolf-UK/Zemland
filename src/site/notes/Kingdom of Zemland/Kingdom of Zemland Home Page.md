@@ -15,7 +15,7 @@
 - [[Kingdom of Zemland/1. PC's/Seraphina Shadowbloom\|Seraphina Shadowbloom]] 
 - [[Kingdom of Zemland/1. PC's/Vaen Silversong\|Vaen Silversong]] 
 - [[Kingdom of Zemland/1. PC's/Workax Dreyman\|Workax Dreyman]] 
-- [[Kingdom of Zemland/1. PC's/Kori (AKA Checkers)\|Kori (AKA Checkers)]] 
+- [[Kingdom of Zemland/1. PC's/Kori\|Kori]] 
 
 ## Retired or Deceased PC's
 
@@ -35,6 +35,7 @@
 - [[Kingdom of Zemland/4. Session/2024-04-07\|2024-04-07]]
 - [[Kingdom of Zemland/4. Session/2024-04-14\|2024-04-14]]
 - [[Kingdom of Zemland/4. Session/2024-04-21\|2024-04-21]]
+- [[Kingdom of Zemland/4. Session/2024-04-28\|2024-04-28]]
 
 { .block-language-dataview}
 
