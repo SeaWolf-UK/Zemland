@@ -9,17 +9,16 @@
 
 - Jess (Keeper of all things Zemland and beyond)
 
-## Player Characters 
-
-- [[Kingdom of Zemland/1. PC's/Eirwen Sarkan\|Eirwen Sarkan]] 
+## Player Characters
 - [[Kingdom of Zemland/1. PC's/Seraphina Shadowbloom\|Seraphina Shadowbloom]] 
 - [[Kingdom of Zemland/1. PC's/Vaen Silversong\|Vaen Silversong]] 
 - [[Kingdom of Zemland/1. PC's/Workax Dreyman\|Workax Dreyman]] 
-- [[Kingdom of Zemland/1. PC's/Kori\|Kori]] 
+- [[Kori\|Kori]] 
 
 ## Retired or Deceased PC's
 
 - [[Kingdom of Zemland/1. PC's/Nigel Del La Plumph\|Nigel Del La Plumph]] (Retired)
+- [[Kingdom of Zemland/1. PC's/Eirwen Sarkan\|Eirwen Sarkan]](retired)
 
 
 ## Sessions 
@@ -36,6 +35,7 @@
 - [[Kingdom of Zemland/4. Session/2024-04-14\|2024-04-14]]
 - [[Kingdom of Zemland/4. Session/2024-04-21\|2024-04-21]]
 - [[Kingdom of Zemland/4. Session/2024-04-28\|2024-04-28]]
+- [[Kingdom of Zemland/4. Session/2024-05-05\|2024-05-05]]
 
 { .block-language-dataview}
 
