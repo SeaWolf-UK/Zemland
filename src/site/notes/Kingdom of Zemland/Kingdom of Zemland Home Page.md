@@ -18,7 +18,7 @@
 ## Retired or Deceased PC's
 
 - [[Kingdom of Zemland/1. PC's/Nigel Del La Plumph\|Nigel Del La Plumph]] (Retired)
-- [[Kingdom of Zemland/1. PC's/Eirwen Sarkan\|Eirwen Sarkan]] (Retired)
+- [[Kingdom of Zemland/1. PC's/Eirwen Sarkan\|Eirwen Sarkan]] [[Kingdom of Zemland/1. PC's/Eirwen Sarkan\|Eirwen Sarkan]] (Retired)
 
 
 ## Sessions 
@@ -37,6 +37,7 @@
 - [[Kingdom of Zemland/4. Session/2024-04-28\|2024-04-28]]
 - [[Kingdom of Zemland/4. Session/2024-05-05\|2024-05-05]]
 - [[Kingdom of Zemland/4. Session/2024-06-02\|2024-06-02]]
+- [[Kingdom of Zemland/4. Session/2024-06-09\|2024-06-09]]
 
 { .block-language-dataview}
 
