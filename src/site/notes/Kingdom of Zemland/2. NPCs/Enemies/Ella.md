@@ -7,7 +7,7 @@ Possible rogue class
 
 Aka 
 Starlight 
-Nightinggale 
+Nightingale 
 Pariah
 
 Possible [[Kingdom of Zemland/ImportCLI/compendium/bestiary/undead/vampire\|vampire]] 
