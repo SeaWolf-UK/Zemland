@@ -41,6 +41,7 @@
 - [[Kingdom of Zemland/4. Session/2024-06-16\|2024-06-16]]
 - [[Kingdom of Zemland/4. Session/2024-06-23\|2024-06-23]]
 - [[Kingdom of Zemland/4. Session/2024-06-30\|2024-06-30]]
+- [[Kingdom of Zemland/4. Session/2024-07-07\|2024-07-07]]
 
 { .block-language-dataview}
 
