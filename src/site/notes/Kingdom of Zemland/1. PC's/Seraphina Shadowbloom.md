@@ -10,5 +10,5 @@
 Player : Adrian
 Race : [[Kingdom of Zemland/compendium/races/changeling-mpmm\|changeling-mpmm]] 
 Class : [[Kingdom of Zemland/compendium/classes/rogue\|rogue]] / [[Kingdom of Zemland/compendium/classes/fighter\|fighter]] 
-Subclass : [[Kingdom of Zemland/compendium/classes/rogue-soulknife-tce\|rogue-soulknife-tce]] 
-Level : 4/1
+Subclass : [[Kingdom of Zemland/compendium/classes/rogue-soulknife-tce\|rogue-soulknife-tce]] / [[Kingdom of Zemland/compendium/classes/fighter-psi-warrior-tce\|fighter-psi-warrior-tce]]
+Level : 4/3

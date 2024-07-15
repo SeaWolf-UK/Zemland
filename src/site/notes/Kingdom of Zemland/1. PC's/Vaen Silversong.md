@@ -11,5 +11,5 @@
 Player : Rhys
 Race : [[Kingdom of Zemland/compendium/races/half-elf\|half-elf]] 
 Class : [[Kingdom of Zemland/compendium/classes/warlock\|warlock]] 
-Subclass : [[Kingdom of Zemland/compendium/classes/warlock-the-hexblade-xge\|warlock-the-hexblade-xge]]
-Level : 5
+Subclass : [[Kingdom of Zemland/compendium/classes/warlock-the-hexblade-xge\|warlock-the-hexblade-xge]] / Bard
+Level : 5/2

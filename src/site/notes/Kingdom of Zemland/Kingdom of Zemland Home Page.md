@@ -13,6 +13,8 @@
 - [[Kingdom of Zemland/1. PC's/Seraphina Shadowbloom\|Seraphina Shadowbloom]] 
 - [[Kingdom of Zemland/1. PC's/Vaen Silversong\|Vaen Silversong]] 
 - [[Kingdom of Zemland/1. PC's/Workax Dreyman\|Workax Dreyman]] 
+- [[Kingdom of Zemland/1. PC's/Pim\|Pim]] 
+- [[Kingdom of Zemland/1. PC's/Xadira\|Xadira]]
 
 ## Retired or Deceased PC's
 
@@ -42,6 +44,7 @@
 - [[Kingdom of Zemland/4. Session/2024-06-23\|2024-06-23]]
 - [[Kingdom of Zemland/4. Session/2024-06-30\|2024-06-30]]
 - [[Kingdom of Zemland/4. Session/2024-07-07\|2024-07-07]]
+- [[Kingdom of Zemland/4. Session/2024-07-14\|2024-07-14]]
 
 { .block-language-dataview}
 

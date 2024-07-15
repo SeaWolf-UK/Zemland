@@ -58,8 +58,8 @@
 > | 19th | 19 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 > | 20th | 20 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 > 
-> - 1st-9th: Spell slots per level
-^class-progression
+> - 1st-9th: Spell slots per level{ #class-progression}
+
 
 ## Hit Points
 
