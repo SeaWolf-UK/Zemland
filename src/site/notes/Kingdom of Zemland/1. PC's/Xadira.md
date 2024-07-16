@@ -9,6 +9,6 @@
 
 Player : Cassy
 Race : [[Kingdom of Zemland/compendium/races/human\|human]]
-Class : Ranger
+Class : [[Kingdom of Zemland/compendium/classes/ranger\|ranger]]
 Subclass : [[Kingdom of Zemland/compendium/classes/ranger-hunter\|ranger-hunter]]
 Level : 7
