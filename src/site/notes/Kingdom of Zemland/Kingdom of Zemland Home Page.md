@@ -11,7 +11,6 @@
 
 ## Player Characters
 - [[Kingdom of Zemland/1. PC's/Seraphina Shadowbloom\|Seraphina Shadowbloom]] 
-- [[Kingdom of Zemland/1. PC's/Vaen Silversong\|Vaen Silversong]] 
 - [[Kingdom of Zemland/1. PC's/Workax Dreyman\|Workax Dreyman]] 
 - [[Kingdom of Zemland/1. PC's/Pim\|Pim]] 
 - [[Kingdom of Zemland/1. PC's/Xadira\|Xadira]]
@@ -21,6 +20,7 @@
 - [[Kingdom of Zemland/1. PC's/Nigel Del La Plumph\|Nigel Del La Plumph]] (Retired)
 - [[Kingdom of Zemland/1. PC's/Eirwen Sarkan\|Eirwen Sarkan]] [[Kingdom of Zemland/1. PC's/Eirwen Sarkan\|Eirwen Sarkan]] (Retired)
 - [[Kori\|Kori]] (Retired)
+- [[Kingdom of Zemland/1. PC's/Vaen Silversong\|Vaen Silversong]] (Deceased)
 
 
 ## Sessions 
@@ -46,6 +46,7 @@
 - [[Kingdom of Zemland/4. Session/2024-07-07\|2024-07-07]]
 - [[Kingdom of Zemland/4. Session/2024-07-14\|2024-07-14]]
 - [[Kingdom of Zemland/4. Session/2024-07-21\|2024-07-21]]
+- [[Kingdom of Zemland/4. Session/2024-07-28\|2024-07-28]]
 
 { .block-language-dataview}
 
