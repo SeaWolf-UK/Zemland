@@ -15,7 +15,7 @@
 - [[1. PC's/Pim\|Pim]] 
 - [[1. PC's/Xadira\|Xadira]]
 - [[1. PC's/Eldrin Greenwalker\|Eldrin Greenwalker]]
-- [[1. PC's/Wentri Spresnore\|Wentri Spresnore]]
+- [[1. PC's/Wentri Sporesnore\|Wentri Sporesnore]]
 
 ## Retired or Deceased PC's
 
