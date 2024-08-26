@@ -14,6 +14,8 @@
 - [[1. PC's/Workax Dreyman\|Workax Dreyman]] 
 - [[1. PC's/Pim\|Pim]] 
 - [[1. PC's/Xadira\|Xadira]]
+- [[1. PC's/Eldrin Greenwalker\|Eldrin Greenwalker]]
+- [[1. PC's/Wentri Spresnore\|Wentri Spresnore]]
 
 ## Retired or Deceased PC's
 
@@ -50,6 +52,7 @@
 - [[4. Session/2024-08-04\|2024-08-04]]
 - [[4. Session/2024-08-11\|2024-08-11]]
 - [[4. Session/2024-08-18\|2024-08-18]]
+- [[4. Session/2024-08-25\|2024-08-25]]
 
 { .block-language-dataview}
 
@@ -58,6 +61,18 @@
 
 ### **Lore** 
  - [[5. Lore/History/History\|History]] 
+ - Organisations
+	 - [[5. Lore/Organisations/Adventurers Guild\|Adventurers Guild]]
+	 - [[5. Lore/Organisations/Black Paw\|Black Paw]]
+	 - [[5. Lore/Organisations/Dragon Knights\|Dragon Knights]]
+	 - [[5. Lore/Organisations/Light Followers\|Light Followers]]
+	 - [[5. Lore/Organisations/Council of Scales\|Council of Scales]]
+	 - [[5. Lore/Organisations/Cult of Tiamat\|Cult of Tiamat]]
+	 - [[5. Lore/Organisations/Thieves Guild Organisational Chart\|Thieves Guild Organisational Chart]]
+		 - [[5. Lore/Organisations/Shadow Consortium\|Shadow Consortium]]
+		 - [[5. Lore/Organisations/Obsidian Hand\|Obsidian Hand]]
+		 - [[5. Lore/Organisations/Silver Serpent\|Silver Serpent]]
+		 - [[5. Lore/Organisations/Hidden Eye\|Hidden Eye]]
 
 ### **Locations** 
 
