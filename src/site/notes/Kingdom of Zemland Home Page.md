@@ -10,12 +10,12 @@
 - Jess (Keeper of all things Zemland and beyond)
 
 ## Player Characters
-- [[1. PC's/Seraphina Shadowbloom\|Seraphina Shadowbloom]] 
 - [[1. PC's/Workax Dreyman\|Workax Dreyman]] 
 - [[1. PC's/Pim\|Pim]] 
 - [[1. PC's/Xadira\|Xadira]]
 - [[1. PC's/Eldrin Greenwalker\|Eldrin Greenwalker]]
 - [[1. PC's/Wentri Sporesnore\|Wentri Sporesnore]]
+- [[1. PC's/Grulk Frostblood\|Grulk Frostblood]]
 
 ## Retired or Deceased PC's
 
@@ -23,6 +23,7 @@
 - [[1. PC's/Eirwen Sarkan\|Eirwen Sarkan]] [[1. PC's/Eirwen Sarkan\|Eirwen Sarkan]] (Retired)
 - [[1. PC's/Kori\|Kori]] (Retired)
 - [[1. PC's/Vaen Silversong\|Vaen Silversong]] (Deceased)
+- [[1. PC's/Seraphina Shadowbloom\|Seraphina Shadowbloom]] (Unknown Location/Situation)
 
 
 ## Sessions 
@@ -53,6 +54,7 @@
 - [[4. Session/2024-08-11\|2024-08-11]]
 - [[4. Session/2024-08-18\|2024-08-18]]
 - [[4. Session/2024-08-25\|2024-08-25]]
+- [[4. Session/2024-09-01\|2024-09-01]]
 
 { .block-language-dataview}
 
