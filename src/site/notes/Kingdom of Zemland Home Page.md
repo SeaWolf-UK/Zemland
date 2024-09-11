@@ -76,6 +76,8 @@
 		 - [[5. Lore/Organisations/Obsidian Hand\|Obsidian Hand]]
 		 - [[5. Lore/Organisations/Silver Serpent\|Silver Serpent]]
 		 - [[5. Lore/Organisations/Hidden Eye\|Hidden Eye]]
+	- [[5. Lore/Organisations/The Silver Dawn\|The Silver Dawn]]
+	- [[5. Lore/Organisations/The Silent Sun\|The Silent Sun]]
 
 ### **Locations** 
 

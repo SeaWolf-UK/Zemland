@@ -10,4 +10,4 @@ Player : Dominic
 Race : [[compendium/races/halfling\|halfling]]
 Class : [[compendium/classes/monk\|monk]]
 Subclass :[[compendium/classes/monk-way-of-mercy-tce\|monk-way-of-mercy-tce]]
-Level : 7
+Level : 8

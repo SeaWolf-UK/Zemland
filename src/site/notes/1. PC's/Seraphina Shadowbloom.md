@@ -11,4 +11,4 @@ Player : Adrian
 Race : [[compendium/races/changeling-mpmm\|changeling-mpmm]] 
 Class : [[compendium/classes/rogue\|rogue]] / [[compendium/classes/fighter\|fighter]] 
 Subclass : [[compendium/classes/rogue-soulknife-tce\|rogue-soulknife-tce]] / [[compendium/classes/fighter-psi-warrior-tce\|fighter-psi-warrior-tce]]
-Level : 4/3
+Level : 4/4

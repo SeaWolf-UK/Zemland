@@ -11,4 +11,4 @@ Player : Joe
 Race : [[compendium/races/half-elf\|half-elf]] 
 Class : [[compendium/classes/sorcerer\|sorcerer]] 
 Subclass : [[compendium/classes/sorcerer-draconic-bloodline\|sorcerer-draconic-bloodline]] 
-Level : 7
+Level : 8

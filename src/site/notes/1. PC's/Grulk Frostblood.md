@@ -3,7 +3,7 @@
 ---
 
 
-![Grulk 1.jpeg](/img/user/Grulk%201.jpeg)
+![Grulk 1.jpeg|500](/img/user/Grulk%201.jpeg)
 
 [Grulk Frostblood's Character Sheet - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/characters/130836871)
 

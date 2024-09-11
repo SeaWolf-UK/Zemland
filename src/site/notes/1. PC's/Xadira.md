@@ -11,4 +11,4 @@ Player : Cassy
 Race : [[compendium/races/human\|human]]
 Class : [[compendium/classes/ranger\|ranger]]
 Subclass : [[compendium/classes/ranger-hunter\|ranger-hunter]]
-Level : 7
+Level : 8
