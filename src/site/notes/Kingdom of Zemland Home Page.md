@@ -60,6 +60,7 @@
 - [[4. Session/2024-09-22\|2024-09-22]]
 - [[4. Session/2024-09-29\|2024-09-29]]
 - [[4. Session/2024-10-06\|2024-10-06]]
+- [[4. Session/2024-10-23\|2024-10-23]]
 
 { .block-language-dataview}
 
@@ -68,6 +69,7 @@
 
 ### **Lore** 
  - [[5. Lore/History/History\|History]] 
+	 - [[5. Lore/History/Grulks Tale - The history of the war between Dragons and Giants\|Grulks Tale - The history of the war between Dragons and Giants]]
  - Organisations
 	 - [[5. Lore/Organisations/Adventurers Guild\|Adventurers Guild]]
 	 - [[5. Lore/Organisations/Black Paw\|Black Paw]]
