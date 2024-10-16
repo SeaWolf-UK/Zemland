@@ -70,6 +70,7 @@
 ### **Lore** 
  - [[5. Lore/History/History\|History]] 
 	 - [[5. Lore/History/Grulks Tale - The history of the war between Dragons and Giants\|Grulks Tale - The history of the war between Dragons and Giants]]
+	 - [[5. Lore/History/The Battle of Blackrock Pass - The Death of the Wintermaw Clan\|The Battle of Blackrock Pass - The Death of the Wintermaw Clan]]
  - Organisations
 	 - [[5. Lore/Organisations/Adventurers Guild\|Adventurers Guild]]
 	 - [[5. Lore/Organisations/Black Paw\|Black Paw]]
